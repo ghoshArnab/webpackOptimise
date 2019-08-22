@@ -1,0 +1,12 @@
+{
+  "name": "semantic-ui-react-example",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "react": "latest",
+    "semantic-ui-react": "latest",
+    "react-dom": "latest",
+    "semantic-ui-css": "2.4.1"
+  }
+}
